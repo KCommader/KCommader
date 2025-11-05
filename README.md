@@ -45,13 +45,6 @@ Psychologically, this intro hits hard: It leverages confidence bias to make you 
 | Build Rich Context AI Apps | Anthropic | In-Progress | 
 | Generative AI Fundamentals | Google Cloud | In-Progress |
 
-## 🛠️ Epic Projects (With Code Repos & Demos)
-
-- **Kaiju Coreflow System** — A beast-mode AI execution engine that maps liquidity traps, reverses orderflow dynamics, and automates high-frequency trading decisions. Built with PyTorch for predictive modeling and LangChain for agentic orchestration. (Repo: [Link to GitHub Repo] – Check the LTR hybrid strategy for volatile markets.)
-- **Portfolio Optimizer (RL-Driven)** — Reinforcement learning prototype that dynamically rebalances assets using actor-critic methods, minimizing risk while maximizing returns. Integrates mean reversion and arbitrage for a 15%+ simulated win rate boost.
-- **Trade Tracker Dashboard** — Real-time analytics tool syncing Python scripts with Notion APIs for performance tracking, visualizations, and alert systems. Handles live data streams like a pro.
-- **Biohacking Labs AI** — Adaptive data pipeline for physiological monitoring, using CNNs for pattern recognition in health metrics and multi-agent systems for personalized protocol recommendations. From sleep optimization to nootropic stacking—AI meets human enhancement.
-
 ## 🌐 Let's Collaborate
 
 **LinkedIn**: [*] – Where I share AI insights and network with innovators.
