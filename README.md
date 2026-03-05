@@ -1,4 +1,4 @@
-# Systems Architect
+# Systems Architect #Enthusiast
 
 Building at the intersection of autonomous intelligence and high-stakes finance.
 
